@@ -2,7 +2,7 @@
 
 Prediction markets with real SPL tokens on Solana blockchain
 
-PredictionPro creates actual YES/NO SPL tokens on Solana for every prediction market, powered by the Bags.fm Hackathon API.
+PredictionPro creates actual YES/NO SPL tokens on Solana for every prediction market, powered by the Bags.fm API.
 
 ## Live App
 
@@ -61,7 +61,7 @@ The AI Oracle automatically detects market types and assigns appropriate resolve
                   ▼
 ┌─────────────────────────────────────────┐
 │ EXTERNAL SERVICES                       │
-│ • Bags.fm Hackathon API - Token minting│
+│ • Bags.fm API - Token minting│
 │ • Solana RPC - Blockchain operations    │
 │ • Firebase - Data persistence           │
 │ • Open-Meteo - Weather data (free)      │
@@ -77,7 +77,7 @@ The AI Oracle automatically detects market types and assigns appropriate resolve
 | Backend | Python Flask, Firebase Admin SDK |
 | Database | Firebase Firestore |
 | Blockchain | Solana (SPL tokens) |
-| Token API | Bags.fm Hackathon API |
+| Token API | Bags.fm API |
 
 ## Fee Structure
 
@@ -200,4 +200,4 @@ Currently ranked **#48** in the Bags.fm Hackathon with 153 points!
 
 ---
 
-*Built with Bags.fm Hackathon API*
+*Built with Bags.fm API*
