@@ -124,7 +124,7 @@ PredictionPro also features an autonomous AI Oracle that automatically verifies 
 |-------|------------|
 | Frontend | Next.js 16, Tailwind CSS, TypeScript |
 | Backend | Python Flask, Firebase Admin SDK |
-| AI | MiniMax M2.7 (Research Agent + Oracle) |
+| AI | AI Research Agent (internal) |
 | Database | Firebase Firestore |
 | Blockchain | Solana (SPL tokens) |
 | Token API | Bags.fm API |
